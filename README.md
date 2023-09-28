@@ -18,6 +18,7 @@ This repository contains the Java implementation of a design pattern assignment 
 The following are two variations of UML diagrams we could use based on this scenario, ideally a combined version of this would be usefull in reality. However for this assignment we will be focussing on the dependencies from the first provided Diagram.
 ![Alt text](UMLdiagram.jpg) 
 ![image](https://github.com/Sandraiscool/assignment1_DesignPatterns/assets/100978399/66d8a29c-82db-4c55-a497-e266fd923a26)
-## Output
+## Unit Tests
+In `Test.java`method demonstrates the creation of grocery products using the Abstract Factory pattern and setting their prices using the Factory Method pattern. It also displays the product names and costs.
 The following is a screenshot of the output
 ![image](https://github.com/Sandraiscool/assignment1_DesignPatterns/assets/100978399/158a3426-217f-482d-b330-7dd698c61b19)
